@@ -28,3 +28,5 @@ Incluye una interfaz gráfica (**GUI**) para facilitar la interacción del usuar
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/usuario/SistemaEmergencias911.git
+2. Abrir el proyecto en tu IDE favorito.
+3. Compilar y ejecutar Main.java.
